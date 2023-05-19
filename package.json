@@ -1,7 +1,7 @@
 {
   "name": "smart-id-parser",
   "version": "0.0.1",
-  "description": "",
+  "description": "Smart ID Parser is an advanced API service that effortlessly extracts and parses crucial information from ID cards using image processing and OCR technology.",
   "author": "Chiamaka Ojiyi(AlgoDame)",
   "private": true,
   "license": "MIT",
